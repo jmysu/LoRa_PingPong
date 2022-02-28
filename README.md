@@ -12,3 +12,6 @@ PingPong test w/ LoRa32 &amp; CubeCell
 <img src="pic/LoRA32Monitor.png">
 
 ## References
+[Heltec Arduino](https://github.com/HelTecAutomation/CubeCell-Arduino)
+[Heltec PlatformIO ASRM650x](https://github.com/HelTecAutomation/platform-asrmicro650x)
+[RadioLib Arduino Library](https://github.com/jgromes/RadioLib)
